@@ -1,4 +1,4 @@
-# Reading Notes :notebook:
+# Reading Notes
 Reading Notes for Code Fellows Courses
 
 ## Code 102 - Intro to Software Development
