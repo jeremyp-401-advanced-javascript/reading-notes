@@ -27,11 +27,11 @@ This [StackOverflow Question](https://stackoverflow.com/questions/3193211/help-m
 >I have a problem with jQuery moving Burt Reynolds face around on the page.
 >
 >My code thus far is:
->
+>```
 >        function moveBurt() {
 >          $('.burt').animate('left' : "-=100px", 3000, 'linear');
 >        }
->
+>```
 >But this isn't working :(
 >PLEASE HELP ME MOVE BURT REYNOLDS FACE!!
 
