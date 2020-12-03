@@ -1,4 +1,4 @@
-# Reading Notes  :notebook:
+# Reading Notes
 Reading Notes for Code Fellows Courses
 
 ## Code 102 - Intro to Software Development
@@ -20,7 +20,7 @@ A few more resources that I've bookmarked that helped when creating the 301 fina
   - PianoGraph's Font - [League Spartan](https://www.theleagueofmoveabletype.com/league-spartan)
 - [Favicon Generator](https://favicon.io/)
 
-This [StackOverflow Question](https://stackoverflow.com/questions/3193211/help-me-move-burt-reynolds-face-jquery) wasn't very helpful, but really shows that sometimes you need a second source for your information :laughing::
+This [StackOverflow Question](https://stackoverflow.com/questions/3193211/help-me-move-burt-reynolds-face-jquery) wasn't very helpful, but really shows that sometimes you need a second source for your information:
 
 >**Asked Jul 7 '10 at 8:44 by Barrie Reader**
 >
