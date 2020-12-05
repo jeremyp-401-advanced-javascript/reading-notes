@@ -46,4 +46,8 @@ This [StackOverflow Question](https://stackoverflow.com/questions/3193211/help-m
 
 ## Code 401 - Advanced Software Development
 
-Reading notes for the course will be here...
+### Engineering Topics
+ - [How to Solve Programming Problems](https://github.com/pixeljava/reading-notes/wiki/Engineering-Topics-(How-to-Solve-Programming-Problems))
+ - [How to Think Like a Programmer](https://github.com/pixeljava/reading-notes/wiki/Engineering-Topics-(How-to-Think-Like-a-Programmer))
+ - [The 5 Whys](https://github.com/pixeljava/reading-notes/wiki/Engineering-Topics-(The-5-Whys))
+ - [Pretend Your Time is Worth $1k/hr](https://github.com/pixeljava/reading-notes/wiki/Engineering-Topics-(Pretend-Your-Time-is-Worth-$1k-hr))
