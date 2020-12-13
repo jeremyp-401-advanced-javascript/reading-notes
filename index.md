@@ -51,3 +51,6 @@ This [StackOverflow Question](https://stackoverflow.com/questions/3193211/help-m
  - [How to Think Like a Programmer](https://github.com/pixeljava/reading-notes/wiki/Engineering-Topics-(How-to-Think-Like-a-Programmer))
  - [The 5 Whys](https://github.com/pixeljava/reading-notes/wiki/Engineering-Topics-(The-5-Whys))
  - [Pretend Your Time is Worth $1k/hr](https://github.com/pixeljava/reading-notes/wiki/Engineering-Topics-(Pretend-Your-Time-is-Worth-$1k-hr))
+ 
+ ### Data Structures and Algorithms
+ - [Linked Lists a.k.a. Going Postal](https://github.com/jeremyp-401-advanced-javascript/reading-notes/wiki/Linked-Lists-(a.k.a-'Going-Postal'))
